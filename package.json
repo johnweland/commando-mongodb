@@ -1,6 +1,6 @@
 {
   "name": "commando-mongodb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A MongoDB provider for discord.js-commando",
   "keywords": [
     "discord.js",
