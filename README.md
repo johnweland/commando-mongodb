@@ -1,7 +1,7 @@
 # Commando MongoDBProvider
 ![Node.js Package](https://img.shields.io/github/workflow/status/johnweland/commando-mongodb/Node.js%20Package?label=Node.js%20Package&logo=github&style=for-the-badge)
-[![Downloads](https://img.shields.io/npm/dt/@johnweland/commando-mongodb?style=for-the-badge)](https://www.npmjs.com/package/@johnweland/commando-mongodb)
-[![Version](https://img.shields.io/npm/v/@johnweland/commando-mongodb/latest?style=for-the-badge)](https://www.npmjs.com/package/@johnweland/commando-mongodb)
+[![Downloads](https://img.shields.io/npm/dt/commando-mongodb?style=for-the-badge)](https://www.npmjs.com/package/commando-mongodb)
+[![Version](https://img.shields.io/npm/v/commando-mongodb/latest?style=for-the-badge)](https://www.npmjs.com/package/commando-mongodb)
 
 A MongoDB provider for discord.js-commando
 
