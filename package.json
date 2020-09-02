@@ -1,0 +1,30 @@
+{
+  "name": "commando-mongodb",
+  "version": "0.0.0",
+  "description": "A MongoDB provider for discord.js-commando",
+  "keywords": [
+    "discord.js",
+    "commando",
+    "discord.js-commando",
+    "provider",
+    "mongodb"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnweland/commando-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnweland/commando-mongodb/issues"
+  },
+  "homepage": "https://github.com/johnweland/commando-mongodb#readme",
+  "author": "John Weland <john.weland@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "discord.js-commando": "^0.10.0",
+    "mongodb": "^3.6.0"
+  }
+}
